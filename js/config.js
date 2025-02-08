@@ -95,26 +95,6 @@ const CONFIG = {
     },
     {
       category: 'Fun',
-      name: 'Reddit',
-      key: 'r',
-      url: 'https://reddit.com',
-      search: '/search?q={}',
-      color: 'linear-gradient(45deg, #fe640b, #e64553)',
-      icon: 'reddit',
-      quickLaunch: false,
-    },
-    {
-      category: 'Fun',
-      name: 'Spotify',
-      key: 's',
-      url: 'https://open.spotify.com/',
-      search: '/search/{}',
-      color: '#40a02b',
-      icon: 'spotify',
-      quickLaunch: false,
-    },
-    {
-      category: 'Fun',
       name: 'Twitch',
       key: 'tw',
       url: 'https://www.twitch.tv',
@@ -123,18 +103,7 @@ const CONFIG = {
       icon: 'twitch',
       quickLaunch: false,
     },
-
-
-    {
-      category: 'Other',
-      name: 'Twitter',
-      key: 't',
-      url: 'https://www.twitter.com',
-      search: '/search?q={}&src=typed_query',
-      color: 'linear-gradient(45deg, #209fb5, #04a5e5)',
-      icon: 'twitter',
-      quickLaunch: true,
-    },
+             
     {
       category: 'Other',
       name: 'Translate',
